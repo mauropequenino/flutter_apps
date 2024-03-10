@@ -1,6 +1,6 @@
-# my_app
+# dice_roller
 
-A new Flutter project.
+Simple app that allows you to roll a die and get a random die value.
 
 ## Getting Started
 
