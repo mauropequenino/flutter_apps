@@ -1,4 +1,4 @@
-# dice_roller
+# Dice Roller
 
 Simple app that allows you to roll a die and get a random die value.
 
